@@ -13,6 +13,10 @@ First, install `@capacitor/assets`:
 ```bash
 npm install @capacitor/assets --save-dev
 ```
+!!!How about actually tell someone something!!!
+Where does the "resources folder go????!!!
+
+Stop being so fucking lazy!!!
 
 Provide icon and splash screen source images using this folder/filename structure:
 ```
